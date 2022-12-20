@@ -1,5 +1,5 @@
 #Pseudo Selectors
-Learn More About CSS Pseudo Selectors By Building A Balance Sheet
+Learn More About CSS Pseudo Selectors By Building A Balance Sheet - Free Code Camp
 12/20/2022
 
 You can use CSS pseudo selectors to change specific HTML elements.
