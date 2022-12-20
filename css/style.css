@@ -64,3 +64,7 @@ span[class~="sr-only"] {
     text-align: right;
     width: 4.5rem;
   }
+
+  .table-wrap {
+    padding: 0 0.75rem 1.5rem 0.75rem;
+  }
